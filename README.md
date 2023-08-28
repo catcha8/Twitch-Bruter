@@ -6,6 +6,7 @@
 
 <video controls width="250">
   <source src="https://cdn.discordapp.com/attachments/1131568135758168144/1145784682420645908/2023-08-28-20-00-37.mp4" type="video/mp4" />
+</video>
 
 ###
 
