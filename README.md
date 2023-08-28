@@ -13,7 +13,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://cdn.discordapp.com/attachments/1131568135758168144/1145784682420645908/2023-08-28-20-00-37.mp4" data-canonical-src="https://user-images.githubusercontent.com/105955582/220395024-f0f7d090-6a26-4d4a-9e6c-72cb17cf41c9.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  <video src="https://cdn.discordapp.com/attachments/1131568135758168144/1145784682420645908/2023-08-28-20-00-37.mp4" data-canonical-src="https://cdn.discordapp.com/attachments/1131568135758168144/1145784682420645908/2023-08-28-20-00-37.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
   </video>
 </details>
