@@ -4,7 +4,9 @@
 
 <h2>Preview</h2>
 
-https://cdn.discordapp.com/attachments/1131568135758168144/1145784682420645908/2023-08-28-20-00-37.mp4
+
+https://github.com/catcha8/Twitch-Bruter/assets/89837052/c60c8f1c-5bea-4b24-90fc-ae42c31efc87
+
 
 ###
 
