@@ -1,6 +1,6 @@
 <h1>Kasada.io reverse engineering</h1>
 
-<h4>Discord Server: <a href="https://discord.gg/hktVzrff54">discord.gg/hktVzrff54</a></h4> 
+<h4>Discord Server: <a href="https://discord.gg/FuMr9vf7fy">discord.gg/FuMr9vf7fy</a></h4> 
 
 <h2>Preview</h2>
 
